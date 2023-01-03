@@ -1,7 +1,7 @@
 {
     "users" : [
-        {"id": 1, "nome": "Willian", "username": "willian", "senha": "123456"},
-        {"id": 2, "nome": "Kayo", "username": "kayo", "senha": "123654"},
-        {"id": 3, "nome": "Batman", "username": "batman", "senha": "654321"}
+        {"id": 1, "nome": "Willian", "email": "willian@mail.com", "senha": "123456"},
+        {"id": 2, "nome": "Kayo", "email": "kayo@mail.com", "senha": "123654"},
+        {"id": 3, "nome": "Batman", "email": "batman@mail.com", "senha": "654321"}
     ] 
 }
